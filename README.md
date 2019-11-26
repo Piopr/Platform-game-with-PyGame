@@ -15,7 +15,9 @@ To start run <b>main.py</b> file. (read requirements)<br>
 <li><b>PyGame</b> - <a href="https://www.pygame.org/wiki/GettingStarted">Getting Started</a></li>
 </ul>
 <br>
-![gamescreen](https://i.imgur.com/ykvpIE1.png)
+
+
+![obrazek](https://i.imgur.com/ykvpIE1.png) <br>
 
 <h2>Sources of sounds/graphics </h2>
 <ul>
